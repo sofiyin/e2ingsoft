@@ -15,7 +15,9 @@ Finalmente esta vuelve a ser 0 al final del día para vuelva a funcionar el día
 
 
 **¿Qué casos de prueba nuevos serían necesarios?**
+
 Caso de prueba exitoso: El valor de transferenciaDiaria se actualiza a 0 al finalizar el día.
+
 2do Caso de prueba nuevo: Verificar que el valor de una operación y de TransferenciaDiaria no supera los 200 soles.
 
 
